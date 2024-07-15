@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Mohammad Alam Jamal",
+    "label": "Fullstack Developer",
+    "location": {
+      "address": "Tolichawki, Hyderabad Telangana, 500008",
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "Telangana"
+    },
+    "phone": "7416815171",
+    "email": "alamjamal88@hotmail.com",
+    "website": "https://github.com/alamjamal",
+    "summary": "Fullstack Developer at Instrive Softlab specializing in ReactJs with MUI and Microservices architecture using Nodejs and RabbitMQ. Led production process management, clustering, and multimedia content handling to ensure optimal performance. Drove Nginx reverse proxy and DevOps pipeline configuration, streamlining development and deployment workflows.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alamjamal",
+        "url": "https://linkedin.com/in/alamjamal"
+      },
+      {
+        "network": "GitHub",
+        "username": "alamjamal",
+        "url": "https://github.com/alamjamal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Instrive SoftLabs",
+      "location": "Chennai",
+      "description": "Software Engineer",
+      "position": "Software Engineer",
+      "startDate": "2023-01-01",
+      "summary": "Implemented a robust and user-friendly web application using React, Redux for state management, MaterialUI (MUI) for the UI components. Integrated Formik with Yup validation for form handling, showcasing expertise in modern front-end development.",
+      "highlights": [
+        "Implemented robust Event Driven Micro-services architecture using Nodejs and RabbitMQ enabling seamless scaling and efficient resource utilization.",
+        "Orchestrated the creation of responsive user interfaces by leveraging React.js and Material-UI, resulting in enhanced user engagement and satisfaction.",
+        "Seamlessly integrated frontend and backend systems through RESTful APIs, ensuring smooth data flow and a cohesive user experience.",
+        "Leveraged the power of AWS S3 for efficient storage and delivery of static assets.",
+        "Pioneered dynamic text generation in the backend by harnessing the capabilities of the ChatGPT API, enhancing content personalization and interactivity.",
+        "Led the seamless deployment of code updates through an integrated pipeline, effectively managing continuous deployment using GitHub Actions.",
+        "Conducted code reviews and provided technical guidance to junior developers."
+      ]
+    },
+    {
+      "name": "MANUU",
+      "location": "Hyderabad",
+      "description": "Backend Developer",
+      "position": "Backend Developer",
+      "startDate": "2021-04-01",
+      "endDate": "2023-01-01",
+      "summary": "Worked on Project Sponsored By Ministry of Electronics and Information Technology LMS for intellectually disabled Children. Implemented serverless architecture using AWS Lambda and Serverless-http.",
+      "highlights": [
+        "Implemented authentication and authorization using JWT RS256 Asymmetric Algorithm.",
+        "Employed advanced logging techniques by integrating Morgan, Winston and Sentry with a rotate file stream, facilitating effective debugging and system monitoring.",
+        "Introduced a centralized error handling mechanism, enhancing application stability.",
+        "Demonstrated expertise in advanced production process management and clustering by effectively utilizing PM2, ensuring optimal resource utilization and high availability.",
+        "Engineered a robust chunk video stream and upload service, enabling efficient handling and delivery of large multimedia content.",
+        "Created an asynchronous Cron job for daily database backups, safeguarding data integrity and providing a fail-safe mechanism against potential data loss.",
+        "Leveraged Redis and a rate limiter mechanism to implement caching and protect against excessive requests, optimizing performance and enhancing security.",
+        "Successfully managed a dedicated server, overseeing the complete CI/CD pipeline for a MERN stack application, with Docker ensuring smooth deployment and continuous integration practices.",
+        "Configured Nginx reverse proxy to efficiently route incoming traffic and optimize application performance."
+      ]
+    },
+    {
+      "name": "Vengai Software Solutions",
+      "location": "Hyderabad",
+      "description": "Associate Software Engineer",
+      "position": "Associate Software Engineer",
+      "startDate": "2019-08-01",
+      "endDate": "2021-03-01",
+      "summary": "Developed and maintained React.js applications, consistently delivering high-quality code and features. Collaborated with the Software Architect to understand and adhere to coding standards and architectural practices.",
+      "highlights": [
+        "Utilized Redux for state management, ensuring efficient data flow and maintainable codebase.",
+        "Worked in an Agile/Scrum environment, participating in daily stand-ups, sprint planning, and retrospectives.",
+        "Collaborated with cross-functional teams including backend developers, designers, and QA engineers."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Hospital",
+      "description": "Python, Flask and Machine Learning",
+      "highlights": [
+        "The IoT sensors collect various patient data such as heart rate, blood pressure, and cholesterol levels. The collected data is securely transmitted to the ThingSpeak cloud for storage and analysis.",
+        "The machine learning algorithm analyzes the patient data to identify patterns and indicators of cardiovascular disease.",
+        "The algorithm is trained on a large dataset of patient records to improve its accuracy and predictive capabilities. The predictions are based on statistical models and patterns derived from the analyzed data.",
+        "The results of the prediction are communicated to healthcare professionals for further evaluation and decision-making.",
+        "This IoT-assisted cardiovascular disease prediction system aims to provide early detection and proactive healthcare management for patients at risk of cardiovascular diseases."
+      ],
+      "keywords": [
+        "IoT",
+        "Machine Learning",
+        "Cardiovascular Disease Prediction",
+        "ThingSpeak Cloud"
+      ],
+      "startDate": "2021-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MANUU, Central University Hyderabad",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "MANUU, Central University Hyderabad",
+      "area": "Computer Science Engineering",
+      "studyType": "Master",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "gpa": "Gold Medalist"
+    }
+  ],
+  "publications": [
+    {
+      "name": "CDPS-IoT: Cardiovascular Disease Prediction System Based on IoT using Machine Learning",
+      "publisher": "",
+      "releaseDate": "2022-02-01",
+      "summary": "In this research, we utilized cutting-edge machine learning and IoT infrastructure to forecast cardiovascular diseases. Patient data is gathered via NodeMCU and IoT sensors, transmitted to the ThingSpeak Cloud. Following this, our machine learning application analyzes the data to determine the likelihood of a patient having cardiovascular disease."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Python for Data Science Expert",
+      "date": "2019-04-01",
+      "issuer": "Edureka",
+      "url": "https://www.edureka.co/my-certificate/83c7b4dc2ce54cd7b6aadf21f9287c23"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "JavaScript",
+        "Nodejs",
+        "Python",
+        "MongoDB",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Development Environments",
+      "keywords": [
+        "AWS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Technologies and Frameworks",
+      "keywords": [
+        "ExpressJs",
+        "ReactJs",
+        "Redux"
+      ]
+    }
+  ]
+}
