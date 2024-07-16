@@ -2,6 +2,7 @@
   "basics": {
     "name": "Mohammad Alam Jamal",
     "label": "Fullstack Developer",
+    "image": "https://i.ibb.co/mcHwnqz/1692293739418.jpg",
     "location": {
       "address": "Tolichawki, Hyderabad Telangana, 500008",
       "city": "Hyderabad",
@@ -118,9 +119,10 @@
   "publications": [
     {
       "name": "CDPS-IoT: Cardiovascular Disease Prediction System Based on IoT using Machine Learning",
-      "publisher": "",
+      "publisher": "INTERNATIONAL JOURNAL OF INTERACTIVE MULTIMEDIA AND ARTIFICIAL INTELLIGENCE",
       "releaseDate": "2022-02-01",
-      "summary": "In this research, we utilized cutting-edge machine learning and IoT infrastructure to forecast cardiovascular diseases. Patient data is gathered via NodeMCU and IoT sensors, transmitted to the ThingSpeak Cloud. Following this, our machine learning application analyzes the data to determine the likelihood of a patient having cardiovascular disease."
+      "summary": "In this research, we utilized cutting-edge machine learning and IoT infrastructure to forecast cardiovascular diseases. Patient data is gathered via NodeMCU and IoT sensors, transmitted to the ThingSpeak Cloud. Following this, our machine learning application analyzes the data to determine the likelihood of a patient having cardiovascular disease.",
+      "url": "https://www.ijimai.org/journal/bibcite/reference/3015"
     }
   ],
   "certificates": [

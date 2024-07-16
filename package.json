@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This is json schema based resume which uses stackoverflow theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "resume export docs/index.html --theme stackoverflow"
+  },
+  "author": "alam jamal",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "resume-cli": "^3.1.2"
+  }
+}
