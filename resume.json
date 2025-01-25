@@ -6,7 +6,7 @@
     "email": "alamjamal88@hotmail.com",
     "phone": "7416815171",
     "url": "https://linkedin.com/in/alamjamal",
-    "summary": "Fullstack Developer at Instrive Softlab specializing ReactJs with MUI and Microservices architecture using Nodejs and RabbitMQ. Led production process management, clustering, and multimedia content handling to ensure optimal performance. Drove Nginx reverse proxy and DevOps pipeline configuration, streamlining development and deployment workflows.",
+    "summary": "Full-Stack Developer skilled in ReactJS, Material-UI, and Node.js. Experienced in monolithic and serverless architectures with AWS Lambda. Proficient in Nginx reverse proxy, DevOps pipelines, and multimedia content handling. Expertise in API integration, AWS S3, and scalable solutions, ensuring high performance, seamless deployment, and user-focused application development.",
     "location": {
       "address": "Tolichawki",
       "postalCode": "500008",
@@ -36,13 +36,15 @@
       "endDate": "",
       "summary": "Implemented a robust and user-friendly web application using React, Redux for state management, MaterialUI(MUI) for the UI components",
       "highlights": [
-        "Implemented robust Event Driven Micro-services architecture using Nodejs and RabbitMQ enabling seamless scaling and efficient resource utilization.",
-        "Integrated Formik with Yup validation for form handling, showcasing expertise in modern front-end development.",
-        "Orchestrated the creation of responsive user interfaces by leveraging React.js and Material-UI, resulting in enhanced user engagement and satisfaction.",
-        "Seamlessly integrated frontend and backend systems through RESTful APIs, ensuring smooth data flow and a cohesive user experience.",
-        "Leveraged the power of AWS S3 for efficient storage and delivery of static assets.",
-        "Pioneered dynamic text generation in the backend by harnessing the capabilities of the ChatGPT API, enhancing content personalization and interactivity.",
-        "Led the seamless deployment of code updates through an integrated pipeline, effectively managing continuous deployment using GitHub Actions.",
+        "Implemented serverless architecture using AWS Lambda and Serverless-http and cut the cost over 50%.",
+        "Implemented authentication and authorization using JWT RS256 Asymmetric Algorithm.",
+        "Employed advanced logging techniques by integrating Morgan, Winston and Sentry with a rotate file stream, facilitating effective debugging and system monitoring.",
+        "Introduced a centralized error handling mechanism, enhancing application stability",
+        "Engineered a robust chunk video stream and upload service, enabling efficient handling and delivery of large multimedia content.",
+        "Created an asynchronous Cron job for daily database backups, safeguarding data integrity and providing a fail-safe mechanism against potential data loss.",
+        "Leveraged Redis and a rate limiter mechanism to implement caching and protect against excessive requests, optimizing performance and enhancing security.",
+        "Successfully managed a dedicated server, overseeing the complete CI/CD pipeline for a MERN stack application, with docker ensuring smooth deployment and continuous integration practices.",
+        "Configured Nginx reverse proxy to efficiently route incoming traffic and optimize application performance.",
         "Conducted code reviews and provided technical guidance to junior developers."
       ]
     },
@@ -54,16 +56,14 @@
       "endDate": "2023-01",
       "summary": "Worked on Project Sponsored By Ministry of Electronics and Information Technology LMS for intellectually disabled Children.",
       "highlights": [
-        "Implemented serverless architecture using AWS Lambda and Serverless-http",
-        "Implemented authentication and authorization using JWT RS256 Asymmetric Algorithm.",
-        "Employed advanced logging techniques by integrating Morgan, Winston and Sentry with a rotate file stream, facilitating effective debugging and system monitoring.",
-        "Introduced a centralized error handling mechanism, enhancing application stability",
+        "Implemented robust Event Driven Micro-services architecture using Nodejs and RabbitMQ enabling seamless scaling and efficient resource utilization.",
+        "Integrated Formik with Yup validation for form handling, showcasing expertise in modern front-end development.",
+        "Orchestrated the creation of responsive user interfaces by leveraging React.js and Material-UI, resulting in enhanced user engagement and satisfaction.",
+        "Seamlessly integrated frontend and backend systems through RESTful APIs, ensuring smooth data flow and a cohesive user experience.",
+        "Leveraged the power of AWS S3 for efficient storage and delivery of static assets.",
         "Demonstrated expertise in advanced production process management and clustering by effectively utilizing PM2, ensuring optimal resource utilization and high availability.",
-        "Engineered a robust chunk video stream and upload service, enabling efficient handling and delivery of large multimedia content.",
-        "Created an asynchronous Cron job for daily database backups, safeguarding data integrity and providing a fail-safe mechanism against potential data loss.",
-        "Leveraged Redis and a rate limiter mechanism to implement caching and protect against excessive requests, optimizing performance and enhancing security.",
-        "Successfully managed a dedicated server, overseeing the complete CI/CD pipeline for a MERN stack application, with docker ensuring smooth deployment and continuous integration practices.",
-        "Configured Nginx reverse proxy to efficiently route incoming traffic and optimize application performance."
+        "Pioneered dynamic text generation in the backend by harnessing the capabilities of the ChatGPT API, enhancing content personalization and interactivity.",
+        "Led the seamless deployment of code updates through an integrated pipeline, effectively managing continuous deployment using GitHub Actions."
       ]
     },
     {
@@ -83,18 +83,18 @@
   ],
   "projects": [
     {
-      "name": "AI Hospital",
-      "description": "The loT sensors collect various patient data such as heart rate, blood pressure, and cholesterol levels. The collected data is securely transmitted to the ThingSpeak cloud for storage and analysis. The machine learning algorithm analyzes the patient data to identify patterns and indicators of cardiovascular disease. The algorithm is trained on a large dataset of patient records to improve its accuracy and predictive capabilities. The predictions are based on statistical models and patterns derived from the analyzed data. The results of the prediction are communicated to healthcare professionals for further evaluation and decision-making. This loT-assisted cardiovascular disease prediction system aims to provide early detection and proactive healthcare management for patients at risk of cardiovascular diseases.",
+      "name": "InstaXerox.in",
+      "description": "InstaXerox offers a seamless platform for printing, copying, and scanning documents with just a few clicks. ",
       "highlights": [
-        "The collected data is securely transmitted to the ThingSpeak cloud for storage and analysis.",
-        "The machine learning algorithm analyzes the patient data to identify patterns and indicators of cardiovascular disease.",
-        "The algorithm is trained on a large dataset of patient records to improve its accuracy and predictive capabilities.",
-        "The predictions are based on statistical models and patterns derived from the analyzed data.",
-        "The results of the prediction are communicated to healthcare professionals for further evaluation and decision-making."
+        "Users can upload files online, select specifications, and place orders instantly.",
+        "Equipped with real-time order tracking to keep users updated on their order status.",
+        "Ensures high-quality printing, copying, and scanning for personal and professional needs.",
+        "Features a user-friendly interface and secure payment options for a hassle-free experience.",
+        "Caters to individuals, businesses, and educational institutions with timely delivery and excellent service."
       ],
-      "keywords": ["Python", "Flask", "Machine Learning"],
-      "startDate": "2021-01",
-      "endDate": "",
+      "keywords": ["React", "Nodejs", "ExpressJs", "AWS", "MongoDB"],
+      "startDate": "2024-12",
+      "endDate": "Working",
       "roles": ["Developer"],
       "entity": "",
       "type": "application"
@@ -121,15 +121,15 @@
     }
   ],
 
-    "awards": [
-      {
-        "title": "Gold Medalist",
-        "date": "2019",
-        "awarder": "MANUU, Central University Hyderabad",
-        "summary": "Awarded for outstanding academic performance in M.Tech (CSE)."
-      }
-    ],
-  
+  "awards": [
+    {
+      "title": "Gold Medalist",
+      "date": "2019",
+      "awarder": "MANUU, Central University Hyderabad",
+      "summary": "Awarded for outstanding academic performance in M.Tech (CSE)."
+    }
+  ],
+
   "certificates": [
     {
       "name": "Python for Data Science Expert",
