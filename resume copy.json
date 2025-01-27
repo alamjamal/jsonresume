@@ -27,7 +27,6 @@
       }
     ]
   },
-
   "work": [
     {
       "name": "Instrive SoftLabs",
@@ -35,17 +34,18 @@
       "url": "",
       "startDate": "2023-01",
       "endDate": "2025-01",
-      "summary": "Developed and optimized scalable web applications using the MERN stack, delivering high-performance and user-focused solutions.",
+      "summary": "Implemented MERN Stack robust and user-friendly web application using React, Redux for state management,Express JS for server component",
       "highlights": [
-        "Transitioned to serverless architecture using AWS Lambda and S3, reducing infrastructure costs by over 50%.",
-        "Enhanced security with JWT RS256-based authentication, improving data protection and user privacy.",
-        "Integrated advanced logging tools (Morgan, Winston, Sentry), reducing debugging time by 40%.",
-        "Designed a chunk video streaming service, increasing multimedia upload efficiency by 70%.",
-        "Automated database backups with asynchronous Cron jobs, ensuring 100% data integrity during outages.",
-        "Implemented Redis caching and rate-limiting mechanisms, improving application performance by 60%.",
-        "Managed CI/CD pipelines using Docker, increasing deployment efficiency by 50%.",
-        "Optimized traffic routing through Nginx reverse proxy, reducing response times by 20%.",
-        "Conducted code reviews and mentored junior developers, fostering best practices and collaboration."
+        "Implemented serverless architecture using AWS Lambda and Serverless-http and cut the cost over 50%.",
+        "Implemented authentication and authorization using JWT RS256 Asymmetric Algorithm.",
+        "Employed advanced logging techniques by integrating Morgan, Winston and Sentry with a rotate file stream, facilitating effective debugging and system monitoring.",
+        "Introduced a centralized error handling mechanism, enhancing application stability",
+        "Engineered a robust chunk video stream and upload service, enabling efficient handling and delivery of large multimedia content.",
+        "Created an asynchronous Cron job for daily database backups, safeguarding data integrity and providing a fail-safe mechanism against potential data loss.",
+        "Leveraged Redis and a rate limiter mechanism to implement caching and protect against excessive requests, optimizing performance and enhancing security.",
+        "Successfully managed a dedicated server, overseeing the complete CI/CD pipeline for a MERN stack application, with docker ensuring smooth deployment and continuous integration practices.",
+        "Configured Nginx reverse proxy to efficiently route incoming traffic and optimize application performance.",
+        "Conducted code reviews and provided technical guidance to junior developers."
       ]
     },
     {
@@ -54,19 +54,32 @@
       "url": "",
       "startDate": "2021-04",
       "endDate": "2023-01",
-      "summary": "Developed a learning management system for intellectually disabled children.",
+      "summary": "Worked on Project Sponsored By Ministry of Electronics and Information Technology LMS for intellectually disabled Children.",
       "highlights": [
-        "Improved form handling efficiency by integrating Formik with Yup validation.",
-        "Developed responsive user interfaces using React.js and Material-UI, increasing user engagement by 25%.",
-        "Integrated frontend and backend systems via RESTful APIs, enhancing data flow by 35%.",
-        "Utilized AWS S3 for asset storage",
-        "Optimized production process management with PM2.",
-        "Integrated ChatGPT API for personalized backend content, increasing user satisfaction by 20%.",
-        "Streamlined deployment with GitHub Actions, accelerating release cycles by 30%."
+        "Integrated Formik with Yup validation for form handling, showcasing expertise in modern front-end development.",
+        "Orchestrated the creation of responsive user interfaces by leveraging React.js and Material-UI, resulting in enhanced user engagement and satisfaction.",
+        "Seamlessly integrated frontend and backend systems through RESTful APIs, ensuring smooth data flow and a cohesive user experience.",
+        "Leveraged the power of AWS S3 for efficient storage and delivery of static assets.",
+        "Demonstrated expertise in advanced production process management and clustering by effectively utilizing PM2, ensuring optimal resource utilization and high availability.",
+        "Pioneered dynamic text generation in the backend by harnessing the capabilities of the ChatGPT API, enhancing content personalization and interactivity.",
+        "Led the seamless deployment of code updates through an integrated pipeline, effectively managing continuous deployment using GitHub Actions."
+      ]
+    },
+    {
+      "name": "Vengai Software Solutions",
+      "position": "Associate Software Engineer",
+      "url": "",
+      "startDate": "2019-08",
+      "endDate": "2021-03",
+      "summary": "Developed and maintained React.js applications, consistently delivering high-quality code and features.",
+      "highlights": [
+        "Collaborated with the Software Architect to understand and adhere to coding standards and architectural practices.",
+        "Utilized Redux for state management, ensuring efficient data flow and maintainable codebase.",
+        "Worked in an Agile/Scrum environment, participating in daily stand-ups, sprint planning, and retrospectives.",
+        "Collaborated with cross-functional teams including backend developers, designers, and QA engineers."
       ]
     }
   ],
-
   "projects": [
     {
       "name": "www.InstaXerox.in",
@@ -88,7 +101,7 @@
   ],
   "education": [
     {
-      "institution": "Maulana Azad National University Hyderabad",
+      "institution": "MANUU, Central University Hyderabad",
       "url": "",
       "area": "Computer Science Engineering",
       "studyType": "B.Tech",
@@ -97,7 +110,7 @@
       "score": ""
     },
     {
-      "institution": "Maulana Azad National University Hyderabad",
+      "institution": "MANUU, Central University Hyderabad",
       "url": "",
       "area": "Computer Science Engineering",
       "studyType": "M.Tech",
@@ -111,24 +124,12 @@
     {
       "title": "Gold Medalist",
       "date": "2019",
-      "awarder": "Maulana Azad National University Hyderabad",
+      "awarder": "MANUU, Central University Hyderabad",
       "summary": "Awarded for outstanding academic performance in M.Tech (CSE)."
     }
   ],
 
   "certificates": [
-    {
-      "name": "Toggl Hire Express Certificate",
-      "date": "2024-07",
-      "issuer": "Toggl Hire",
-      "url": "https://candidate.hire.toggl.com/qk5y3q"
-    },
-    {
-      "name": "Toggl Hire React Certificate",
-      "date": "2024-07",
-      "issuer": "Toggl Hire",
-      "url": "https://candidate.hire.toggl.com/qk5y3q"
-    },
     {
       "name": "Python for Data Science Expert",
       "date": "2019-04",
